@@ -41,3 +41,22 @@
 | Assessment     | Quiz 4 (Week 14)                         |           |             |
 | 15             | Review and Exam Preparation  <br/> - Recap of course topics  <br/>  - Practice exercises and discussions    | Lecture   | 2           |
 | Assessment     | Final Exam (Invigilation required)        |           |             |
+
+
+### Dates and Deadlines
+
+| Course Start | 10 - Jul - 2024 |
+|--------------|-----------------|
+| AWS Academy Introduction to Cloud: Semester 1: Opens | 10 - Jul - 2024 |
+| Quiz 1 : Introduction to Cloud Computing Semester 1 | 19 - Aug  - 2024 |
+| AWS Academy Introduction to Cloud: Semester 2: Opens | 26 - Aug - 2024 |
+| Mid-Term Exam | Sept  - 2024 |
+| AWS Academy Introduction to Cloud: Semester 1: Extended Period | 20 - Sept - 2024 |
+| AWS Academy Cloud Security Foundations : Opens | 25 - Sept - 2024 |
+| Quiz 2 : Introduction to Cloud Computing - Semester 2 | 30 - Sept  - 2024 |
+| AWS Academy Introduction to Cloud: Semester 1: Extended Period | 31 - Oct - 2024 |
+| Quiz 3 : Cloud Security Foundations | 04 - Nov  - 2024 |
+| End Semester Exam | Nov  - 2024 |
+| AWS Academy Cloud Security Foundations: Extended Period | 25 - Nov - 2024 |
+| Publication of Results | Dec  - 2024 |
+
