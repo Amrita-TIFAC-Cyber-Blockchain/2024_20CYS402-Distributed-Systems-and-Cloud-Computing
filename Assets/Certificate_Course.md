@@ -75,15 +75,15 @@
 | 64 | Saranesh E S | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9307da1d-4834-472a-a02f-e2d0e4ec4ef4) |  |  | 
 | 65 | Seran Pandiyan I P | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/88465e14-18e6-4f02-b1ea-9455e22003de) |  |  | 
 | 66 | Shree Om Sharma | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/0cc060f0-7fd1-4d7c-9421-e9d86c54a873) |  |  | 
-| 67 | Sourabh Sasikanthan  |  |  |  | 
+| 67 | Sourabh Sasikanthan  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/3237714f-18fe-4a50-925d-3b1468330abc) |  |  | 
 | 68 | Sri Sai Tanvi Sonti | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/75457707-96f4-4753-b364-8f7e26163478) |  |  | 
-| 69 | Sudeep V   |  [![](https://img.shields.io/badge/-Certificate-gold)]() |  |  | 
+| 69 | Sudeep V   |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/4676911a-3ae4-4371-8794-340a66c0a1ba) |  |  | 
 | 70 | Sudhir  R T | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9076a2d6-8e26-486f-a043-24fc03b9f314) |  |  | 
 | 71 | Sudipt Kumar | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/f0441bd0-023e-432d-852b-ef9ac2951f64) |  |  | 
 | 72 | S Suganth Sarvesh |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/3158ef0c-cd1e-4bcf-99b4-75d7df9795f1)|  |  | 
 | 73 | Sushmanth V M | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/29e173c4-e9e3-4209-82d8-efd03c067b5f) |  |  | 
 | 74 | Suvetha D P | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/10e51b32-c5b7-4ec9-959d-4e8a6cf195b4) |  |  | 
-| 75 | Swetha V | |  |  | 
+| 75 | Swetha V | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9e145cfa-3d35-4e42-86a3-68b04805615a) |  |  | 
 | 76 | Tippireddy Pavan Kumar Reddy | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/2953783c-7c5f-49d8-9ccb-0736137ecb83)  |  |  | 
 | 77 | Koti Venkatadinesh Reddy | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/d24dddc9-a585-4f06-834c-f298fc17a72b)  |  |  | 
 | 78 | UMASHANKAR KAVYA | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/68935618-56d5-4f52-a32b-f8e9a78118da/)  |  |  | 
