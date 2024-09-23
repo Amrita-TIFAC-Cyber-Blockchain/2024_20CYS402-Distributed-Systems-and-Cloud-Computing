@@ -17,7 +17,31 @@ To understand:
 - [Demo Image Running](https://www.youtube.com/watch?v=ND-qkZVc3KM)
 - [Pushing Image to DockerHub](https://www.youtube.com/watch?v=pBdN1OlWGQc)
 
-### Class Practice 
+### Class Practice - 1
+
+```
+docker run hello-world
+```
+
+<p align="center">
+  <img src="../images/docker_hello-world.png" width=800/>
+</p>
+
+### Class Practice - 2
+
+```
+docker pull nginx
+```
+
+<p align="center">
+  <img src="../images/docker_nginx.png" width=800/>
+</p>
+
+```
+docker run -d -p 8080:80 nginx
+```
+
+### Class Practice - 3
 
 - The base layer is "alpine"
 - Set a Environmental Variable called "ROLLNO" to your full roll number (CB.EN.U4CYS210YY)
