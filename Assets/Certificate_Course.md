@@ -45,14 +45,14 @@
 | 34 | Ashwatha Prasad M K | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/0d36b322-a342-4aa5-af8a-e1775242c40e) |  |  | 
 | 35 | Madari Kuruba Ganesh | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/29e56a4e-e914-4458-a116-d799c22bf016) |  |  | 
 | 36 | Madhav Harikumar | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/293424c7-04b2-4a07-bdf0-fca1168d163d)  |  |  | 
-| 37 | Manbendra Satpathy  |  |  |  | 
+| 37 | Manbendra Satpathy  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/774a8911-482f-4c24-ba14-02d5fde5194a) | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/73a8ebc8-d1f9-42e7-91eb-e142fb2da0be) |  | 
 | 38 | G Manomithran | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/8fe56d21-a540-49f0-9de7-cf4ac4a88127) |  |  | 
 | 39 | Middivari Charan Kumar Reddy   |  |  |  | 
 |  40 | Mittul R  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/66d17425-8d79-4e9a-b90a-5c30c10a55cb) |  |  | 
 | 41 | Mohamed Jasir Faiez M M | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/2d124d7b-54ed-413f-9ca2-3e2150f91612) |  |  | 
 | 42 | Molabanti Naga Ravi Chandra | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/5a6061c4-7733-486d-98db-586a6678ba7f) |  |  | 
 | 43 | Monish Thanuvenkatesh |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/559e441b-d809-4ede-ae13-8cf5469655d9) |  |  | 
-| 44 | S A Mukesh | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/1e306d27-82ee-4b61-b521-590793d831ba/) |  |  | 
+| 44 | S A Mukesh | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/1e306d27-82ee-4b61-b521-590793d831ba/) | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/f8e6b462-c358-419e-be00-bce3f8416a60) |  | 
 | 45 | Nimmakayala Vihalroy | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/87c8b79d-e350-4c11-83e2-bbdaaa87691f)  |  |  | 
 | 46 | Niran R |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/62758594-6cf8-4a77-9e70-5e23c3e19d26) |  |  | 
 | 47 | NISHANT V | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/b753cf05-baf7-4461-8ffc-ff716efdc5f5) |  |  | 
@@ -65,19 +65,19 @@
 | 54 | Pranav S R | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/4b0f0134-20d7-4f25-a2d7-900f9633109f) |  |  | 
 | 55 | Pushpanth Reddy P | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/1e38bddc-5064-47e4-a5d3-2ff12bef6255) |  |  | 
 | 56 | SIDDHARTH KRISHNA R | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/fcc5eadd-ac50-43d5-81b8-2bbe44a30131) |  |  | 
-| 57 | Rakshan K  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/1cbbddbb-4bac-4c36-9637-90b19de85638/) |  |  | 
+| 57 | Rakshan K  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/1cbbddbb-4bac-4c36-9637-90b19de85638/) | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/3e171dc2-88c0-4368-917e-45ea470c3beb) |  | 
 | 58 | Ram Surya Suresh Kumar | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/56d713d7-1ef0-414f-a68e-3338573363c0) |  |  | 
 | 59 | Roshni V | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/643687f0-2521-4bf4-9c21-8fb52d0bc949) |  |  | 
-| 60 | Bandreddy Ruthwik Krishna   |  |  |  | 
+| 60 | Bandreddy Ruthwik Krishna | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/0ee22325-5daa-4bf4-92b9-2713a4f284eb) |  |  | 
 | 61 | S Adhwaith | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9dbc19a5-479f-47b6-ac71-7614fd363eab) |  |  | 
 | 62 | Sanjai Prashad  D | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/dca48c63-d077-4ef3-9b55-42f00428aa7d) |  |  | 
 | 63 | Sanneganti Dharmik | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/d399ba83-9385-4c11-a485-a08872ed4b7a) |  |  |
 | 64 | Saranesh E S | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9307da1d-4834-472a-a02f-e2d0e4ec4ef4) |  |  | 
 | 65 | Seran Pandiyan I P | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/88465e14-18e6-4f02-b1ea-9455e22003de) |  |  | 
 | 66 | Shree Om Sharma | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/0cc060f0-7fd1-4d7c-9421-e9d86c54a873) |  |  | 
-| 67 | Sourabh Sasikanthan  | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/3237714f-18fe-4a50-925d-3b1468330abc) |  |  | 
+| 67 | Sourabh Sasikanthan  | |  |  | 
 | 68 | Sri Sai Tanvi Sonti | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/75457707-96f4-4753-b364-8f7e26163478) |  |  | 
-| 69 | Sudeep V   |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/4676911a-3ae4-4371-8794-340a66c0a1ba) |  |  | 
+| 69 | Sudeep V   |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/4676911a-3ae4-4371-8794-340a66c0a1ba) | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/77d4c9c6-26c1-4e92-b5b7-9692f681110f) |  | 
 | 70 | Sudhir  R T | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/9076a2d6-8e26-486f-a043-24fc03b9f314) |  |  | 
 | 71 | Sudipt Kumar | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/f0441bd0-023e-432d-852b-ef9ac2951f64) |  |  | 
 | 72 | S Suganth Sarvesh |  [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/3158ef0c-cd1e-4bcf-99b4-75d7df9795f1)|  |  | 
@@ -93,4 +93,4 @@
 | 82 | VINOTH KUMAR D | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/15a3c6a3-27d6-48c6-9aa4-b45aecb0f84a) |  |  | 
 | 83 | Vishnu K | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/acd77cda-c4ff-4b34-bb2d-ec6528ad5a96) |  |  | 
 | 84 | Yaswanth Gadamsetti | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/a6dde936-f3e5-44fc-a28c-6bd1b51bf9f5) |  |  | 
-| 85 | Yuvaraj Kumar G P | [![](https://img.shields.io/badge/-Certificate-gold)]() |  |  | 
+| 85 | Yuvaraj Kumar G P | [![](https://img.shields.io/badge/-Certificate-gold)](https://www.credly.com/badges/ce262c32-d950-4ecd-a55e-bedc3b6e193a) |  |  | 
