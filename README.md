@@ -1,6 +1,7 @@
 # 20CYS402 - Distributed Systems and Cloud Computing
 ![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-DSCC-blue) <br/>
-![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold)
+![](https://img.shields.io/badge/Lecture-2-orange) ![](https://img.shields.io/badge/Practical-3-orange) ![](https://img.shields.io/badge/Credits-3-orange) <br/> ![](https://img.shields.io/badge/Students-85-gold) <br/>
+![](https://img.shields.io/badge/Pass_Percent-98.82-darkgreen) ![](https://img.shields.io/badge/Average_Marks-58.53-blue) <br/> ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
 
 #### Pre-requisite: 20CYS203 - Operating System and 20CYS204 - Database Management System
 
